@@ -107,7 +107,7 @@
                         openedCards[1].classList.add("open", "show");
                         winCount += 1;
 
-                        if(winCount === 1){
+                        if(winCount === 8){
                             gameWon();
                         }
 
