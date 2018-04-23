@@ -1,7 +1,7 @@
 # Memory Game Project
 
 ## Live demo
-* Github Live Page - [Live Demo](https://github.com/user/repo/blob/branch/other_file.md)
+* Github Live Page - [Live Demo](https://alkuca.github.io/Memory-game/)
 
 
 ## Features
